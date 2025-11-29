@@ -169,24 +169,14 @@ visualize_denoising(model, test_loader)
 
 ```
 
-## OUTPUT
+### OUTPUT
+<img width="931" height="556" alt="image" src="https://github.com/user-attachments/assets/ff8dc492-0ef2-482d-b7e9-606d3a109d98" />
 
-### Model Summary:
+### Training loss
+<img width="580" height="137" alt="image" src="https://github.com/user-attachments/assets/cd913673-f35d-4342-a477-e9d595a59dc9" />
 
-![image](https://github.com/user-attachments/assets/3d1700d4-f31e-42e7-8cca-cbbcfff3effb)
-
-
-
-### Training loss:
-![image](https://github.com/user-attachments/assets/2bd26597-58e1-4968-9d99-14e75d483f34)
-
-
-
-### Original vs Noisy Vs Reconstructed Image:
-
-![image](https://github.com/user-attachments/assets/865403f2-e125-4dcc-a00b-2e49135b0e33)
-
-
+## Original vs Noisy Vs Reconstructed Image
+<img width="1290" height="428" alt="image" src="https://github.com/user-attachments/assets/929e113d-cc2a-43fe-bcc4-2f35ae6e524a" />
 
 ## RESULT
-Thus, a convolutional autoencoder for image denoising application has been developed.
+Thus, develop a convolutional autoencoder for image denoising application excuted succesfully.
